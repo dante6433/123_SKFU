@@ -11,3 +11,4 @@ For Each objPnP In objService.ExecQuery("SELECT * FROM Win32_PnPEntity")
 	WScript.Echo objPnP.PNPDeviceID 'идентификатор логического устройства
 	WScript.Echo
 Next
+456564565465454564

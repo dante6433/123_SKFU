@@ -10,3 +10,4 @@ WScript.Echo objDisk.Size 'размер диска
 WScript.Echo objDisk.VolumeName 'метка тома
 WScript.Echo objDisk.VolumeSerialNumber 'серийный номер тома
 Next
+885285242454524241412

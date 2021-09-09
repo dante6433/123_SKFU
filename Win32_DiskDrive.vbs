@@ -29,3 +29,4 @@ WScript.Echo objDisk.Size 'размер диска (по количеству ц
 WScript.Echo objDisk.Partitions 'количество разделов на диске
 WScript.Echo
 Next
+54585272525245245254
